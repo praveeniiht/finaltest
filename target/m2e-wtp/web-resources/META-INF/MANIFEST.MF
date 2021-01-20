@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: HP
+Build-Jdk: 14.0.2
+Implementation-Title: cssweb Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.css.webs
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://github.com/Xlongshu/maven-starters/starter-d
+ ependencies/javaweb-starter/cssweb
+Created-By: Maven Integration for Eclipse
+
